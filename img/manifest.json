@@ -1,0 +1,114 @@
+[
+ {
+  "fil": "01-img-01-768x411.png",
+  "kilde": "https://bergensmaadyrklinikk.no/wp-content/uploads/2023/02/img_01-768x411.png",
+  "bredde": 768,
+  "hoyde": 411,
+  "alt": "",
+  "side": "https://bergensmaadyrklinikk.no"
+ },
+ {
+  "fil": "02-img-02-768x374.png",
+  "kilde": "https://bergensmaadyrklinikk.no/wp-content/uploads/2023/02/img_02-768x374.png",
+  "bredde": 768,
+  "hoyde": 374,
+  "alt": "",
+  "side": "https://bergensmaadyrklinikk.no"
+ },
+ {
+  "fil": "03-img-03-768x386.png",
+  "kilde": "https://bergensmaadyrklinikk.no/wp-content/uploads/2023/02/img_03-768x386.png",
+  "bredde": 768,
+  "hoyde": 386,
+  "alt": "",
+  "side": "https://bergensmaadyrklinikk.no"
+ },
+ {
+  "fil": "04-bergensmaadyrklinikk-03.jpg",
+  "kilde": "https://bergensmaadyrklinikk.no/wp-content/uploads/2021/09/bergensmaadyrklinikk_03.jpg",
+  "bredde": 1809,
+  "hoyde": 720,
+  "alt": "css-bg",
+  "side": "https://bergensmaadyrklinikk.no"
+ },
+ {
+  "fil": "05-bergensmaadyrklinikk-04.jpg",
+  "kilde": "https://bergensmaadyrklinikk.no/wp-content/uploads/2021/09/bergensmaadyrklinikk_04.jpg",
+  "bredde": 1920,
+  "hoyde": 765,
+  "alt": "css-bg",
+  "side": "https://bergensmaadyrklinikk.no"
+ },
+ {
+  "fil": "06-omoss-img-01.jpg",
+  "kilde": "https://bergensmaadyrklinikk.no/wp-content/uploads/2023/01/omoss_img_01.jpg",
+  "bredde": 1529,
+  "hoyde": 735,
+  "alt": "og:image",
+  "side": "https://bergensmaadyrklinikk.no/om-oss/"
+ },
+ {
+  "fil": "07-omoss-img-01-768x369.jpg",
+  "kilde": "https://bergensmaadyrklinikk.no/wp-content/uploads/2023/01/omoss_img_01-768x369.jpg",
+  "bredde": 768,
+  "hoyde": 369,
+  "alt": "",
+  "side": "https://bergensmaadyrklinikk.no/om-oss/"
+ },
+ {
+  "fil": "08-bergensmaadyrklinikk-03.jpg",
+  "kilde": "https://bergensmaadyrklinikk.no/wp-content/uploads/2021/09/bergensmaadyrklinikk_03.jpg",
+  "bredde": 1809,
+  "hoyde": 720,
+  "alt": "css-bg",
+  "side": "https://bergensmaadyrklinikk.no/om-oss/"
+ },
+ {
+  "fil": "09-bergensmaadyrklinikk-04.jpg",
+  "kilde": "https://bergensmaadyrklinikk.no/wp-content/uploads/2021/09/bergensmaadyrklinikk_04.jpg",
+  "bredde": 1920,
+  "hoyde": 765,
+  "alt": "css-bg",
+  "side": "https://bergensmaadyrklinikk.no/om-oss/"
+ },
+ {
+  "fil": "10-bergensmaadyrklinikk-03.jpg",
+  "kilde": "https://bergensmaadyrklinikk.no/wp-content/uploads/2021/09/bergensmaadyrklinikk_03.jpg",
+  "bredde": 1809,
+  "hoyde": 720,
+  "alt": "css-bg",
+  "side": "https://bergensmaadyrklinikk.no/tjenester/indremedisin/"
+ },
+ {
+  "fil": "11-bergensmaadyrklinikk-04.jpg",
+  "kilde": "https://bergensmaadyrklinikk.no/wp-content/uploads/2021/09/bergensmaadyrklinikk_04.jpg",
+  "bredde": 1920,
+  "hoyde": 765,
+  "alt": "css-bg",
+  "side": "https://bergensmaadyrklinikk.no/tjenester/indremedisin/"
+ },
+ {
+  "fil": "12-bergensmaadyrklinikk-03.jpg",
+  "kilde": "https://bergensmaadyrklinikk.no/wp-content/uploads/2021/09/bergensmaadyrklinikk_03.jpg",
+  "bredde": 1809,
+  "hoyde": 720,
+  "alt": "css-bg",
+  "side": "https://bergensmaadyrklinikk.no/tjenester/poliklinikk/"
+ },
+ {
+  "fil": "13-bergensmaadyrklinikk-04.jpg",
+  "kilde": "https://bergensmaadyrklinikk.no/wp-content/uploads/2021/09/bergensmaadyrklinikk_04.jpg",
+  "bredde": 1920,
+  "hoyde": 765,
+  "alt": "css-bg",
+  "side": "https://bergensmaadyrklinikk.no/tjenester/poliklinikk/"
+ },
+ {
+  "fil": "14-bergensmaadyrklinikk-03.jpg",
+  "kilde": "https://bergensmaadyrklinikk.no/wp-content/uploads/2021/09/bergensmaadyrklinikk_03.jpg",
+  "bredde": 1809,
+  "hoyde": 720,
+  "alt": "css-bg",
+  "side": "https://bergensmaadyrklinikk.no/tjenester/ledd-og-korsbandskader/"
+ }
+]
